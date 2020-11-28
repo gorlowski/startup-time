@@ -1,8 +1,12 @@
 C
+C_MUSL
+Crystal
+Crystal_MUSL
 C++
 Cython
 Cython3
 D
+Dart
 Go
 Go_GCC
 Haskell
@@ -18,3 +22,8 @@ Rust
 *.exe
 *.hi
 *.o
+*.swp
+hello-world.rb18
+hello-world.mrb
+hello-world.qjs
+hello-world.djs
